@@ -7,9 +7,7 @@ This is the first stage of my engineering roadmap toward embedded systems, contr
 ## Goal
 Understand how to read sensors, drive outputs, and write simple Arduino programs.
 
-## Progress
 
-## Progress
 
 ## Progress
 
