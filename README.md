@@ -9,14 +9,17 @@ Understand how to read sensors, drive outputs, and write simple Arduino programs
 
 ## Progress
 
-| # | Topic | Status | Folder |
-|---|-------|--------|--------|
-| 1 | LED blink | ☐ | `lesson-01-blink/` |
-| 2 | Digital input (button) | ☐ | |
-| 3 | Analog input | ☐ | |
-| 4 | PWM output | ☐ | |
-| 5 | Temperature sensor | ☐ | |
+## Progress
 
+| # | Videos | Mini Project | Status |
+|---|--------|--------------|--------|
+| 1 | 1–12 | Variable-brightness LED circuit | ☐ |
+| 2 | 13–24 | Lighting and alarm system | ☐ |
+| 3 | 25–34 | Servo controlled by joystick | ☐ |
+| 4 | 35–40 | DC motor control system | ☐ |
+| 5 | 41–48 | Display showing data and control | ☐ |
+| 6 | 49–63 | Distance and temperature measuring device | ☐ |
+| 7 | 64–68 | Remote-controlled system | ☐ |
 ## What I learned
 - (Write 2-3 lines after each lesson, in your own words)
 
